@@ -8,6 +8,8 @@
 
 **echoSurf** is a voice based Google search tool that allows you to quickly search for information on the internet without having to switch between applications or manually type your query.
 
+[Watch Demo - Youtube](https://youtu.be/5gInLYv5tAc)
+
 ## 💻 ELI5 (Explain Like I'm 5)
 
 Imagine you have a friend who can't type very well, but they really want to search for things on the internet. With echoSurf, they can just talk to their computer's web browser, and it will open a new tab in their web browser and search for what they said! No more typing, just talking.
